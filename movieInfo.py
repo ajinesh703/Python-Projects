@@ -1,3 +1,5 @@
+#Made by Ajinesh Pratap Singh
+
 from imdb import IMDb
 
 # Create an instance of the IMDb class
